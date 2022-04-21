@@ -1,0 +1,41 @@
+body{
+    background-image:url(https://bi-school.ru/wp-content/uploads/2019/10/Biznes-insajt-kak-uvelichit-internet-prodazhi.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.transbox{
+    display: inline-block;
+    margin: 5% 12%;
+    background-color:#ffffff;
+    border:1px solid black;
+    opacity: 0.9;
+    font-size: 36px;
+    width: 75%;
+    padding: 30px 32px;
+}
+h1{
+    text-align: center;
+    letter-spacing: 3px;
+    color:crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+dd{
+    text-align: center;
+    font-style: italic;
+    color:darkblue;
+}
+.b{
+   text-align: right;
+   margin-right: 20px;
+   margin-bottom: 20px;
+   }
+@media(max-width:1700px){
+    body{
+    background-image:url(https://st2.depositphotos.com/1614195/8607/i/950/depositphotos_86077248-stock-photo-stack-of-kazakh-tenge.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    }
+    .transbox{
+        margin: 13% 12%;
+    }
+}
